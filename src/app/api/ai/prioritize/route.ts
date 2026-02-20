@@ -85,7 +85,7 @@ function parsePrioritizedIds(text: string): { ids: string[]; reasoning: string }
       
       if (parsed.prioritizedIds && Array.isArray(parsed.prioritizedIds)) {
         return {
-          ids: parsed.prioritizedIds.filter((id): id is string => typeof id === 'string'),
+          ids: parsed.prioritizedIds.filter((id: unknown): id is string => typeof id === 'string'),
           reasoning: parsed.reasoning || 'AI 已根据创业早期特点进行智能排序'
         };
       }
