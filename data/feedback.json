@@ -1,0 +1,23 @@
+[
+  {
+    "id": "feedback_1771557455739_0bgje6a",
+    "resourceId": 1,
+    "action": "like",
+    "userId": "user_1771557439570_uzlj90x",
+    "timestamp": 1771557455739
+  },
+  {
+    "id": "feedback_1771557460114_fj2ipr3",
+    "resourceId": 2,
+    "action": "like",
+    "userId": "user_1771557439570_uzlj90x",
+    "timestamp": 1771557460114
+  },
+  {
+    "id": "feedback_1771560061996_jrb1dq3",
+    "resourceId": 10,
+    "action": "like",
+    "userId": "user_1771552804316_myragxz",
+    "timestamp": 1771560061996
+  }
+]
