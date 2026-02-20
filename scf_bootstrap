@@ -1,0 +1,4 @@
+#!/bin/bash
+# 腾讯云 Serverless 启动脚本
+export PORT=9000
+npx next start -p 9000
