@@ -34,7 +34,7 @@ export default function Navbar() {
             </div>
             <div className="flex flex-col">
               <span className="font-bold text-lg bg-clip-text text-transparent bg-gradient-to-r from-indigo-600 to-purple-600">创业助手</span>
-              <span className="text-[10px] text-gray-400 -mt-1">Startup Assistant</span>
+              <span className="text-[10px] text-gray-400 -mt-1">Startup Tasker</span>
             </div>
           </Link>
 
